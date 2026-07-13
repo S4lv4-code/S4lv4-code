@@ -26,7 +26,7 @@ Aprendo construyendo: estudio un concepto, lo practico con ejercicios pequeños 
 llevo a un proyecto real hasta poder usarlo con seguridad. Este perfil es el registro de ese
 proceso — no es un portfolio pulido de producción, es evolución visible.
 
-- 🔭 Actualmente construyendo **MagLibary** (Java + JavaFX + SpringBoot + MySQL)
+- 🔭 Actualmente construyendo **MagLibrary** (Java + JavaFX + SpringBoot + MySQL)
 - 🌱 Profundizando en **Spring Boot**, **Git** y **Docker** de forma autodidacta
 - 🎯 Buscando mi primera oportunidad como backend developer (o full-stack junior)
 - 💬 Pregúntame sobre Java, Hibernate/JPA o modelado relacional
