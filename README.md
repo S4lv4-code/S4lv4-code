@@ -50,14 +50,14 @@ proceso — no es un portfolio pulido de producción, es evolución visible.
 
 ## 🚀 Proyectos destacados
 
-### 📦 [Product Manager API](https://github.com/S4lv4-code/REPO-PENDIENTE)
+### 📦 [Product Manager API](https://github.com/S4lv4-code/GameShop/tree/b0bf660103509df6f42dcff93d7f21e4680721d5/gameshop)
 Backend con CRUD completo de productos y clientes, gestión de stock y venta.
 Arquitectura en capas para separar lógica de negocio, acceso a datos y presentación.
 Persistencia relacional con Hibernate, diseñada para minimizar errores de traspaso entre tipos.
 
 `Java` `Hibernate` `JPA` `MariaDB` `Maven`
 
-### 🎮 [GameShelf](https://github.com/S4lv4-code/REPO-PENDIENTE)
+### 🎮 [GameShop]([https://github.com/S4lv4-code/REPO-PENDIENTE](https://github.com/S4lv4-code/GameShop/tree/b0bf660103509df6f42dcff93d7f21e4680721d5/gameshop))
 Aplicación para gestionar colecciones personales de videojuegos, con integración a un
 backend propio vía API REST — en desarrollo activo.
 
